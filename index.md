@@ -2,12 +2,14 @@
 layout: page
 tags: about
 ---
-## About Me
+## Hello, you seemed to have stumbled upon my personal website. I use this site mainly as a blog and a showcase for some of the projects i've been working on.
 
-Hi, I'm a seventeen year old high school student from Columbus Ohio.
+### About Me
 
-I enjoy programming, music, investing, and more.
+ I'm a seventeen year old high school student from Columbus Ohio.
 
-Here's some stuff I've been working on.
-* Projects
+I enjoy programming, music, investing, basketball, and more.
+
+Here are some things I think are cool.
+* [Projects](/projects)
 * Reccomended Media
