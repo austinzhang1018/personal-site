@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The start of my website project.
-tag: website-project-post
+catagory: website-project-post
 date: 2017-07-03 2:38:11
 ---
 This is officially the first non-test post on my website.
