@@ -5,4 +5,4 @@ permalink: /projects/
 ---
  Here are some of the projects I've been working on recently.
 
-Coming Soon...
+{{ site.text.index.coming_soon }}
