@@ -4,7 +4,7 @@ email:       austinzhang1018@gmail.com
 author:      Austin Zhang
 description: "A place where I share thoughts and projects."
 baseurl:     ""
-url:         "https://austinzhang1018.github.io/"
+url:         "austinzhang.io"
 date_format: "%b %-d, %Y"
 
 # Google services
