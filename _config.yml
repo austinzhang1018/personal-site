@@ -4,7 +4,7 @@ email:       austinzhang1018@gmail.com
 author:      Austin Zhang
 description: "A place where I share thoughts and projects."
 baseurl:     ""
-url:         "austinzhang.io"
+url:         "/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
