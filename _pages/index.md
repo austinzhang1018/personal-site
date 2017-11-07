@@ -6,7 +6,7 @@ tags: about
 
 ### About Me
 
-I'm a seventeen year old high school senior from Columbus Ohio.
+I'm a seventeen-year-old high school senior from Columbus Ohio.
 
 I enjoy programming, music, investing, basketball, and more.
 
