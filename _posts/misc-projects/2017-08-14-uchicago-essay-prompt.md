@@ -24,3 +24,5 @@ Now to actually see what words majors there were I had to type out all of the ma
 So once I finished writing the program, I ran it (runtime is < 1sec) and found that in total, with all the majors/concentrations/etc. listed on U Chicago's site, there are 663 different possible things you could write your topic on. This was actually a lot more than I expected, but keep in mind that the majority of these different possibilities are nonsensical.
 
 As a closing note, although this program finds all the possible English permutations of the words in the U Chicago majors, it doesn't consider "punny" words to be real words (ex. Pundamentals). So we are assuredly missing out on a section of the possible prompts.
+
+You can view the source code along with a list of possible essay words [here](https://github.com/austinzhang1018/U-Chicago-Prompt-Generator).
