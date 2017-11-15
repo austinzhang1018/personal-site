@@ -15,7 +15,7 @@ Here's an example of a lipo explosion.
 
 Now we won't be shooting BBs at our batteries and they should be protected from rocks and curbs by our battery case, but there's a fair bit of vibration while riding the skateboard and we really don't want to be taking any chances. Currently, our battery case is padded, but we'd prefer to work with more safe batteries. We started to experiment with building our own battery pack using 18650 li-ion cells, but that failed terribly and is for another post.
 
-One last thing that I've been thinking about is the motor mount. I original that both the retaining piece and the motor mount itself can be thinner, and we might even be able to explore reintroducing our two-piece mount. The problem with our original two-piece mount was bending due to the high torque of the motor, but that was before we had the retaining brace. I think the retaining brace takes a significant load off the motor mount and might be enough to allow us to reintroduce some of our previously rejected thinner mount designs.
+One last thing that I've been thinking about is the motor mount. Both the retaining piece and the motor mount itself can be thinner, and we might even be able to explore reintroducing our two-piece mount. The problem with our original two-piece mount was bending due to the high torque of the motor, but that was before we had the retaining brace. I think the retaining brace takes a significant load off the motor mount and might be enough to allow us to reintroduce some of our previously rejected thinner mount designs.
 
 Most of what I've been writing doesn't make any sense without photos, so I'll include a few down below.
 
