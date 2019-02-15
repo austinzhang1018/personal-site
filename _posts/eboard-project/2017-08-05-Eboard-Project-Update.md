@@ -20,19 +20,19 @@ One last thing that I've been thinking about is the motor mount. Both the retain
 Most of what I've been writing doesn't make any sense without photos, so I'll include a few down below.
 
 A full view of the bottom of the skateboard. The orange box is the battery case, the blue box is the ESC and receiver, the blue thing attached to the trucks at the top of the picture is the motor mount, and the yellow thing attached to the trucks is the retaining piece.
-![Board Bottom]({{ "austinmzhang.com/assets/board-bottom.jpg" | absolute_url }})
+![Board Bottom]({{ "assets/board-bottom.jpg" | relative_url }})
 
 A top view of our board. Although there are small points where the screws used to attach the ESC and Battery cases stick out past the grip tape, they're cut to length so they don't actually stick out of the board.
-![Board Top]({{ "austinmzhang.com/assets/board-top.jpg" | absolute_url }})
+![Board Top]({{ "assets/board-top.jpg" | relative_url }})
 
 A close up of the battery case with the batteries inside. 
-![Batteries]({{ "austinmzhang.com/assets/batteries.jpg" | absolute_url }})
+![Batteries]({{ "assets/batteries.jpg" | relative_url }})
 
 Inside our ESC case. At the top is the receiver, and the main piece is the ESC. The translucent material around the outside is hot glue that we were using to waterproof the ESC. We switched to sealant meant specifically for waterproofing after this picture.
-![ESC]({{ "austinmzhang.com/assets/esc.jpg" | absolute_url }})
+![ESC]({{ "assets/esc.jpg" | relative_url }})
 
 Our remote control. This is the only piece we didn't design ourselves besides the 3D printed pulley we used for our drive wheel. The file can be found [here](https://www.thingiverse.com/thing:922378). We plan on replacing this controller soon.
-![Remote]({{ "austinmzhang.com/assets/remote.jpg" | absolute_url }})
+![Remote]({{ "assets/remote.jpg" | relative_url }})
 
 A close up of our motor mount. Note the ridges protruding out of the motor mount; these provide more rigidity and help reduce flexing. The mount is secured using threaded rod to a retaining piece mounted on the truck to hold it in place and to reduce torque on the mount.
-![Motor Mount]({{ "austinmzhang.com/assets/motor-mount.jpg" | absolute_url }})
+![Motor Mount]({{ "assets/motor-mount.jpg" | relative_url }})
