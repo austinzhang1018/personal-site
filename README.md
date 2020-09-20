@@ -1,2 +1,3 @@
-This is my personal site for my 2019 Winter DALI application. It's a modified and updated version of my previous personal site. To view the site click [here](https://austinzhang1018.github.io) or go to austinzhang1018.github.io.
-This repository contains the already built and generated site files. To view the markdown files, html templates, and source files that I used to generate the site click [here](https://github.com/austinzhang1018/personal-site)
+# Personal Site
+
+This is a personal site I built with Jekyll based on the Pixyll template. To view the site click [here](https://austinzhang1018.github.io) or go to austinzhang1018.github.io.
